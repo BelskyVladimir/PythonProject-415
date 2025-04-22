@@ -1,0 +1,1 @@
+F:\PythonProject415\.venv\Scripts\python.exe F:\PythonProject415\extract_and_load.py
