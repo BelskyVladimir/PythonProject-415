@@ -1,0 +1,1 @@
+alter user postgres with password 'new_password';

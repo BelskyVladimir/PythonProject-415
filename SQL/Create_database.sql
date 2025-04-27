@@ -1,0 +1,1 @@
+create database chain_of_grosere_stores;
